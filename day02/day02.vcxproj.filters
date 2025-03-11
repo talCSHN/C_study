@@ -15,52 +15,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="value3.c">
+    <ClCompile Include="..\day01\HelloWorld.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="value4.c">
+    <ClCompile Include="..\day01\name.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="value5.c">
+    <ClCompile Include="..\day01\practice.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="value6.c">
+    <ClCompile Include="..\day01\printf.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="HelloWorld.c">
+    <ClCompile Include="..\day01\printf2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="name.c">
+    <ClCompile Include="..\day01\printf3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="practice.c">
+    <ClCompile Include="..\day01\printf4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="printf.c">
+    <ClCompile Include="..\day01\value.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="printf2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="printf3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="printf4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="value.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="value2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="scanf.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="scanf2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="scanf_practice.c">
+    <ClCompile Include="..\day01\value2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
