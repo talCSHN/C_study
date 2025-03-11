@@ -27,6 +27,15 @@
     <ClCompile Include="value6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="scanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_practice.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="HelloWorld.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -52,15 +61,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="value2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="scanf.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="scanf2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="scanf_practice.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
