@@ -20,6 +20,7 @@ int main()
 	printf("str2: %s\n", str2);
 
 	//str = str2; // ¾ÈµÊ
+	printf("str2: %s\n", str2);
 
 	return 0;
 }
