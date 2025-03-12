@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2c852a78-a2a2-49ad-9ad0-d1d976c914d3}</ProjectGuid>
-    <RootNamespace>day01</RootNamespace>
+    <ProjectGuid>{cdf7fcc6-3764-4021-8a15-fc943b7b5fa0}</ProjectGuid>
+    <RootNamespace>day02</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,23 +127,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWorld.c" />
-    <ClCompile Include="name.c" />
-    <ClCompile Include="practice.c" />
-    <ClCompile Include="printf.c" />
-    <ClCompile Include="printf2.c" />
-    <ClCompile Include="printf3.c" />
-    <ClCompile Include="printf4.c" />
-    <ClCompile Include="scanf.c" />
-    <ClCompile Include="scanf2.c" />
-    <ClCompile Include="scanf_practice.c" />
-    <ClCompile Include="scanf_practice2.c" />
-    <ClCompile Include="value.c" />
-    <ClCompile Include="value2.c" />
-    <ClCompile Include="value3.c" />
-    <ClCompile Include="value4.c" />
-    <ClCompile Include="value5.c" />
-    <ClCompile Include="value6.c" />
+    <ClCompile Include="casting.c" />
+    <ClCompile Include="else.c" />
+    <ClCompile Include="for.c" />
+    <ClCompile Include="func.c" />
+    <ClCompile Include="func2.c" />
+    <ClCompile Include="func3.c" />
+    <ClCompile Include="func4.c" />
+    <ClCompile Include="gugudan.c" />
+    <ClCompile Include="gugudan1.c" />
+    <ClCompile Include="if.c" />
+    <ClCompile Include="if2.c" />
+    <ClCompile Include="oper2.c" />
+    <ClCompile Include="operator.c" />
+    <ClCompile Include="practice111.c" />
+    <ClCompile Include="shift.c" />
+    <ClCompile Include="switch.c" />
+    <ClCompile Include="switch_practice.c" />
+    <ClCompile Include="while.c" />
+    <ClCompile Include="while2.c" />
+    <ClCompile Include="while3.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
