@@ -33,6 +33,7 @@ void sum() {
 	int score;
 	int scoreArr[4][3];
 	int totalArr[4];
+
 	printf("국영수 성적 입력\n");
 	for (int i = 0; i < 4; i++) {
 		printf("%d번째 학생 성적 입력(국영수 순서대로)\n", i+1);
